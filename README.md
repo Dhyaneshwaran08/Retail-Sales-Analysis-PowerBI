@@ -1,4 +1,4 @@
-# Retail Sales Analysis – Power BI
+# Sales & Profitability Analysis – Power BI
 
 ## Project Overview
 This project analyzes retail sales data using Power BI to understand sales performance, profitability, customer behavior, regional performance, and product returns.
@@ -6,7 +6,7 @@ This project analyzes retail sales data using Power BI to understand sales perfo
 The dashboard is designed to convert raw sales data into meaningful business insights and support data-driven decision-making.
 
 ## Dashboard Preview
-![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
+![Sales & Profitability Dashboard](Retail_Sales_Dashboard.png)
 
 ## Key KPIs
 - Total Sales: 12M
@@ -23,9 +23,9 @@ The dashboard is designed to convert raw sales data into meaningful business ins
 - The return rate is 20%, meaning 1 in every 5 orders was returned.
 
 ## Business Recommendations
-- Focus on high-performing regions such as North while developing growth strategies for the West region.
-- Prioritize Electronics while monitoring profitability and product returns.
-- Analyze the strategies that contributed to July's strong performance and apply relevant actions to lower-performing months.
+- Focus on the North region to maintain its strong sales performance and develop growth strategies for the West region.
+- Prioritize Electronics while monitoring its profitability and product returns.
+- Analyze the factors behind July's strong sales performance and apply relevant strategies to lower-performing months.
 - Identify products or categories with high return rates and investigate the reasons behind returns.
 - Improve customer retention strategies to encourage repeat purchases from existing customers.
 
